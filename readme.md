@@ -8,7 +8,7 @@ A single issuance of very noteworthy documentation and splendid things,  nearly 
 
 ## goal of tranference
 
-To spread valuable information and insight for modular web development.  
+To spread valuable information and insight for modular web development.  And of course to advance art and science.  
 
 ### with content about
 
