@@ -1,6 +1,8 @@
 ## What it is
 
-A single issuance of very noteworthy documentation and splendid things,  nearly all of which is the product of modular software and emerging technology.  To be distributed in web, e-reader, and print.
+A single issuance of very noteworthy documentation and splendid things,  nearly all of which is the product of modular software and emerging technology.  Authored by flying wizards.  To be distributed a large format print magazine as well as for e-reader, and npm.
+
+With hopes of repeating the work quartlery. 
 
 ## goal of this project 
 
@@ -15,6 +17,7 @@ To spread valuable information and insight for modular web architectures, and to
 * personal insight and voodoo from our contributors
 * notable modules and repos
 * mad sciance and expeprimental arts
+* what else?  Submit subjects and topics as issues!  
 
 Plus actual code, open source goods, and community and conference listings.
 
