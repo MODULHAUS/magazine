@@ -1,14 +1,10 @@
-#  transference 
-
-"A magazine is a context of petards."
-
 ## What it is
 
 A single issuance of very noteworthy documentation and splendid things,  nearly all of which is the product of modular software and emerging technology.  To be distributed in web, e-reader, and print.
 
-## goal of tranference
+## goal of this project 
 
-To spread valuable information and insight for modular web development.  And of course to advance art and science.  
+To spread valuable information and insight for modular web architectures, and to advance art and science of software development.  
 
 ### with content about
 
